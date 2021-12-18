@@ -1,0 +1,4 @@
+.video-thumb-wrapper { display: block; width: 120px; height: 90px;
+                       background: url('../images/button_play_red.png') center center no-repeat; }
+.video-thumb { filter: alpha(opacity = 60); opacity: .6; }
+.video-thumb:hover { filter: alpha(opacity = 30); opacity: .3; }
